@@ -1,0 +1,30 @@
+h1{
+    color: #333;
+}
+
+img{
+    width: 900px;
+    height: 400px;
+}
+
+.Font{
+    text-align: center;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Font1{
+    text-align: center;
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+hr{
+    width: 50%;
+}
+
+p{
+    color: aquamarine;
+    font-size: 100px;
+}
